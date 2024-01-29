@@ -48,7 +48,7 @@ public class GamePanel extends JPanel implements ActionListener {
 
 	}
 
-	// Method to initialize the game state, will have to access line 55 and 56 as
+	// Method to initialize the game state, will have to assess line 55 and 56 as
 	// its giving undefined error
 	public void startGame() {
 		newApple();
